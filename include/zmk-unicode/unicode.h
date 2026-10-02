@@ -2,6 +2,7 @@
 
 #include <zmk/behavior.h>
 #include <zmk/keys.h>
+#include <dt-bindings/zmk/keys.h>
 
 #include <dt-bindings/zmk-unicode/uc.h>
 
